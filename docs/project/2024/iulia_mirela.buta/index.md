@@ -6,7 +6,6 @@ A fire alarm system trigerred by a fire source or other sort of light source in 
 *Author*: Buta Iulia-Mirela \
 *GitHub Project Link*: https://github.com/UPB-FILS-MA/project-ButaIulia
 
-:::
 
 
 ## Description: 
@@ -47,6 +46,7 @@ The architecture of the project is the following:
 6. Jumper Wires – 10
 7. Micro-USB Cable – 1
 9. Buzzer - 1
+![alt text](picture.jpeg)
 
 ## Connection Overview:
 * The fire sensor is connected to one of the GPIO pins of the Raspberry Pi Pico for detecting fire or smoke.
